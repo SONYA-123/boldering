@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    text-align: center;
+}
+main a {
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.trikartitnki {
+    border-left: 5px dotted black;
+    padding: 10px;
+}
+main p {
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
